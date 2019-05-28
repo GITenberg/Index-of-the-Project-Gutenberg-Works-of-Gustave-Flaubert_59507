@@ -1,0 +1,30 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Gustave-Flaubert_59507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Flaubert
+    - https://fr.wikipedia.org/wiki/Gustave_Flaubert
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Gustave Flaubert
+url: http://www.gutenberg.org/ebooks/59507
